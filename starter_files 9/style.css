@@ -41,14 +41,10 @@ img {
     color: #9C9C9C;
 }
 
-.address {
-    font-size: 13px;
+.streetAddress, .address, .Phone {
+    font-size: 15px;
     color: #4C4840;
-}
-
-.phone {
-    font-size: 13px;
-    color: #4C4840;
+    line-height: .5em;
 }
 
 .SSN {
