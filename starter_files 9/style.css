@@ -51,5 +51,9 @@ img {
 .SSN {
     font-size: 13px;
     color: green;
-    filter: blur(3px);
+    filter: blur(2px);
+}
+
+.SSN:hover {
+    filter: none;
 }
